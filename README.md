@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/66fc17dc-7f4e-42bf-ab16-f987c9defc94)# AON Pre Interview Questionaire
+# AON Pre Interview Questionaire
 
 ## Task 1 - Timing a Method
 
