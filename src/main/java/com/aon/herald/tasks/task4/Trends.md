@@ -2,7 +2,7 @@
 
 In recent years, I noticed the enterprise applications have been influenced by 3 trends.
 
-###These trends :
+### These trends :
 
 1. Moving to Cloud development.
 2. Containerization simplifies application development, scaling and isolating dependencies.
@@ -13,12 +13,12 @@ In recent years, I noticed the enterprise applications have been influenced by 3
 1. **Cloud Computing**
 Cloud platforms like **AWS**, **Azure**, and **Google Cloud** are now the backbone of enterprise applications. They offer flexibility, and cost efficiency, enabling businesses to deploy applications globally and adapt to changing demands.
 
-**Impact**:
-- Enterprises reduce infrastructure management overhead with pay-as-you-go models.
-- Serverless architectures speed up development cycles and lower costs.
+  **Impact**:
+  - Enterprises reduce infrastructure management overhead with pay-as-you-go models.
+  - Serverless architectures speed up development cycles and lower costs.
 
-**Preparation**:
-- Hands-on experience with **AWS** services like **Lambda**, **S3**, and **EC2**, and use **Infrastructure-as-Code** tools like **Terraform** for cloud resource automation.
+  **Preparation**:
+  - Hands-on experience with **AWS** services like **Lambda**, **S3**, and **EC2**, and use **Infrastructure-as-Code** tools like **Terraform** for cloud resource automation.
 
 ------------
 
